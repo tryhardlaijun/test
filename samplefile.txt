@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 From newBranch
+From Msater
+>>>>>>> master
